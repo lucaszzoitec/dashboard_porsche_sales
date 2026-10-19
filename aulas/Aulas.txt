@@ -1,0 +1,26 @@
+ia raports
+- construção de paginas dashboard outbounds > Data visualization
+- capacidade de insights rapidos
+- agaentes capacidade de evolução e manutenção de como vai ser disponibilizado
+- agentes de insights rapidos
+- gerenciamento de custos
+- sistemas completos de acesso a dados e informações
+
+ia as a process
+- ajuda para escrever uma formula
+- gerar uma tabela bonitinha
+- processos worksflows completo de tratamento de dados
+- agentes de insights analises
+- ganho de produtividade
+---------------------------------------
+quais ferramentas?
+- gpt
+- cloude IA (gratis)
+---------------------------------------
+O que vamos aprender?
+- oque é uma analise?
+- oque pode ou nao ser analisado por um IA?
+---------------------------------------
+Pilares de dados
+1 - Segurança de dados sensiveis (info dos clients RG, CPF, PJ)
+2 - Nunca perder a rastreabilade
